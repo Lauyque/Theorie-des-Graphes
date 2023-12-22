@@ -19,10 +19,10 @@ print("Sommet de DG:", DG.nodes())
 G.remove_node(1)
 
 # Ajout d'arêtes au graphe G
-G.add_edges_from([(2, 3), (2, 5), (3, 4), (4, 5)])
+G.add_edges_from([(1,2),(2, 3), (2, 5), (3, 4), (4, 5),(4,6),(6,7),(7,5),(7,8),(8,9),(9,5),(9,1)])
 
 # Ajout d'arêtes au graphe DG
-DG.add_edges_from([(1, 3), (2, 3), (2, 4), (2, 5), (4, 5), (5, 1)])
+DG.add_edges_from([(1, 3), (1, 2), (2, 3), (4, 5), (4, 6), (5, 6)])
 
 # Tracé des graphes
 plt.figure()
