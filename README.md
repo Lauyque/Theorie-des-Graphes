@@ -13,7 +13,7 @@ Voici les points :
 
 
 #
-# Exo 4 #
+# Exercice 4 #
 #
 
 
