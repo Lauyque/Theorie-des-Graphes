@@ -1,6 +1,5 @@
 # Theorie-des-Graphes
 #
-#
 
 # Question 7 de l'Exo 1
 
@@ -13,9 +12,9 @@ Voici les points :
 
 
 
-
+#
 # Exo 4 #
-
+#
 
 
 import matplotlib. pyplot as plt
