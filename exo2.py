@@ -29,7 +29,7 @@ node_positions_GD = {1: (0, 1), 2: (-0.87, -0.5), 3: (0.87, -0.5), 4: (0, -1), 5
 # Tracé des graphes
 plt.figure()
 
-nx.draw(G,pos=node_positions_G, with_labels=True,node_size=700, node_color='skyblue', font_size=8, font_color='black', font_weight='bold', edge_color='gray', linewidths=0.5 )
+nx.draw(G,pos=node_positions_G, with_labels=True)
 plt.show()
 
 plt.figure()
