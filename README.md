@@ -1,5 +1,8 @@
 # Theorie-des-Graphes
+#
+#
 
+# Question 7 de l'Exo 1
 
 1.7
 Voici les points :
@@ -11,7 +14,7 @@ Voici les points :
 
 
 
-# Question 4 #
+# Exo 4 #
 
 
 
